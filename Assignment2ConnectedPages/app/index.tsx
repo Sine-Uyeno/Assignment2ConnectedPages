@@ -1,6 +1,6 @@
 import { ScrollView, Text, View, StyleSheet, TouchableOpacity, Image } from "react-native";
 
-export default function Judepage() {
+export default function Index() {
 
   const repeat = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
 
