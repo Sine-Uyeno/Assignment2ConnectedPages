@@ -25,8 +25,8 @@ export default function Index() {
             </View>
             <View>
               <Text style={styles.text}>John Doe</Text>
-              <Text style={styles.text}>Lorem ipsum dolor sit amet, consectetur adipiscing</Text>
-              <Text style={styles.text}>Lorem ipsum dolor sit amet, consectetur adipis...</Text>
+              <Text style={styles.text}>Lorem ipsum dolor sit amet, consectetur</Text>
+              <Text style={styles.text}>Lorem ipsum dolor sit amet, consec...</Text>
             </View>
             <View>
               <Text style={styles.text}>October 28</Text>
