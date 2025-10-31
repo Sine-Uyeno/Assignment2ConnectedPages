@@ -5,7 +5,7 @@ export default function RootLayout() {
     <Tabs>
       <Tabs.Screen name="index"/>
       <Tabs.Screen name="EmailDetailsPage"/>
-      <Tabs.Screen name="antpage"/>
+      <Tabs.Screen name="SendEmailPage"/>
     </Tabs>
   );
 }
